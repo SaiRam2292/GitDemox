@@ -8,7 +8,10 @@ public class Reverseusingscanner {
 
         Scanner sc = new Scanner(System.in);
         System.out.println(" Enter the number :" );
-        
+        System.out.println(" Enter the number :" );
+        System.out.println(" Enter the number :" );
+        // dummy,mdf
+
         int num = sc.nextInt();
         int reverse =0;
 
